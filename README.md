@@ -10,7 +10,7 @@
 - Áp dụng **Clean Architecture** & **SOLID**  
 - Lưu trữ dữ liệu offline bằng **SharedPreferences**  
 - Quản lý state với `setState()`  
-- Giao diện hiện đại, hỗ trợ **Dark Mode** và **Responsive**  
+- Giao diện hiện đại, hỗ trợ **Responsive**  
 
 ---
 
